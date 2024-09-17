@@ -107,6 +107,10 @@ used by the SPP web UI. **Resource owners grant** is used by most of our open
 source projects such as safeguard-ps, safeguard-bash, SafeguardJava, and
 SafeguardDotNet.
 
+To modify which grant types are available. In the web UI go to Appliance Management -> Safeguard Access -> Local Login Control:
+
+![SPP Grant Types](img/grants.png)
+
 An example of calling the rSTS:
 
 ```Bash
